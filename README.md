@@ -1,13 +1,14 @@
 ![Logo]()
 
-### Bloom And Doom - for Forge 1.19.2 - by uhhh, yes.
+### Bloom And Doom - for Forge/Fabric 1.20.1
 
 ## About
 
-Rember to write about section
+Mod that expands dye and flower mechanics
 
 ## Credits
 
 - LazTheArtist [Code]
+- Xypercode [Code]
 - Pyrocidian [yes]
-- rember to fill out credits section
+- Elithris [Art]
