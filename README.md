@@ -10,5 +10,5 @@ Mod that expands dye and flower mechanics
 
 - LazTheArtist [Code]
 - Xypercode [Code]
-- Pyrocidian [yes]
-- Elithris [Art]
+- Pyrocide [Concepts]
+- Elithris [Art and concepts]
